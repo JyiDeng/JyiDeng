@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @JyiDeng.
 - 👀 I’m interested in Cloud Native, Software Engineering, NLP, ...
+- 📫 How to reach me: 22302010075@m.fudan.edu.cn || Wechat: Djyalice444
+
 <!---
 - 🌱 I’m currently learning Data Structure, Discrete Mathematics, json skills, ...
 --->
-- 📫 How to reach me: 22302010075@m.fudan.edu.cn || Wechat: Djyalice444
-
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyiDeng&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" /> </div>
 <!---
