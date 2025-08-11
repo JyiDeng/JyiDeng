@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JyiDeng.
-- 👀 I’m interested in: Embodied AI & RL, Cloud Native, Software Engineering, NLP, Widget & Tools...
+- 👀 I’m interested in: Embodied AI (dexterous manipulation / simulation platforms / RL), NLP (LLM evaluation), Software Engineering, Widget & Tools...
 - 📫 How to reach me: 22302010075@m.fudan.edu.cn || Wechat: Djyalice444
 
 <!---
