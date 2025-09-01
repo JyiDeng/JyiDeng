@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JyiDeng.
 - 👀 I’m interested in: Embodied AI (dexterous manipulation / simulation platforms / RL), NLP (LLM evaluation), Software Engineering, Widget & Tools...
-- 📫 How to reach me: 22302010075@m.fudan.edu.cn || Wechat: Djyalice444
+- 📫 How to reach me: 2050313360@qq.com || Wechat: Djyalice444
 
 <!---
 - 🌱 I’m currently learning Data Structure, Discrete Mathematics, json skills, ...
