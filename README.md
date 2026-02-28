@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JyiDeng.
-- 👀 I’m interested in: Embodied AI (dexterous manipulation / simulation platforms / RL), NLP (LLM evaluation), Software Engineering, Vibe Coding Hackathons on Widget & Tools...
+- 👀 I’m interested in: NLP (LLM Evaluations), Embodied AI (Representation Learning / Simulation Platforms), Software Engineering, Vibe Coding Hackathons on Widget & Tools...
 - 📫 How to reach me: 2050313360@qq.com || Wechat: Djyalice444
 
 <!---
